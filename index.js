@@ -1,9 +1,9 @@
 // Backbone.Router
 // -------------------
 
-var _ = require('underscore');
-var Events = require('backbone-events');
-var History = require('backbone-history');
+var _ = require('component-underscore');
+var Events = require('timoxley-backbone-events');
+var History = require('spini-backbone-history');
 
 // Routers map faux-URLs to actions, and fire events when routes are
 // matched. Creating a new one sets its `routes` hash, if not set statically.

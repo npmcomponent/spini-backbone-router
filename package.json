@@ -1,0 +1,15 @@
+{
+  "name": "spini-backbone-router",
+  "description": "Backbone.Router component",
+  "version": "0.0.1",
+  "keywords": [
+    "backbone",
+    "router",
+    "mvc"
+  ],
+  "dependencies": {
+    "component-underscore": "git://github.com/npmcomponent/component-underscore.git",
+    "timoxley-backbone-events": "git://github.com/npmcomponent/timoxley-backbone-events.git",
+    "spini-backbone-history": "git://github.com/npmcomponent/spini-backbone-history.git"
+  }
+}
